@@ -1,4 +1,4 @@
-# unruh_deWitt_on_massless_topological_black_holes
+# unruh_deWitt_on_massless_hyperbolic_black_holes
 
 Numerical analyses of ["Ground and thermal states for the Klein-Gordon field on a massless hyperbolic black hole with applications to the anti-Hawking effect"](https://arxiv.org/abs/2011.03812) regarding an Unruh-deWitt detector on massless topological black holes with hyperbolic sections. 
 
